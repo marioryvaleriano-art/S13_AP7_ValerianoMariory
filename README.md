@@ -1,4 +1,4 @@
-Evidencias de la Aplicación
+Evidencias de la Aplicación Tienda Online 🛍️💰
 
 
 <img width="1918" height="863" alt="Captura de pantalla 2026-06-16 141041" src="https://github.com/user-attachments/assets/68a7985f-11fe-494c-9028-d50f12a37b2a" />
